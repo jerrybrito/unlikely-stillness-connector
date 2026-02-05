@@ -1,0 +1,2 @@
+# Requires: meta-infinity
+# (Not available on PyPI)
